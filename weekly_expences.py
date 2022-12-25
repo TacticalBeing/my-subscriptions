@@ -7,9 +7,9 @@ def weeklyExpenses(inp):
     20.5:"Hindu",
     34: "ET",
     10.5:"BM",
-    16.4:"HT",
+    18:"HT",
     };
-    val=[26,20.5,34,10.5,16.4]
+    val=[26,20.5,34,10.5,18]
     newspaper=[]
 # storing all possible combinations to a variable
     combination=list(itertools.combinations(val, 2))
